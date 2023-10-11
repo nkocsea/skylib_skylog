@@ -1,3 +1,3 @@
-module suntech.com.vn/skylib/skylog.git
+module github.com/nkocsea/skylib_skylog
 
 go 1.15

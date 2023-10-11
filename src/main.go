@@ -1,7 +1,7 @@
 package main
 
 import (
-	"suntech.com.vn/skylib/skylog.git/skylog"
+	"github.com/nkocsea/skylib_skylog/skylog"
 )
 
 type A struct {
